@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.01f80ce8.css",
+    "main.js": "/static/js/main.c5729bbc.js",
+    "static/media/boyler.jpg": "/static/media/boyler.347f5188282126e33c48.jpg",
+    "static/media/FRABK.woff": "/static/media/FRABK.2bb35213eec09e5d61aa.woff",
+    "static/media/centurygothic.woff": "/static/media/centurygothic.56f26bd99eb07d9401f3.woff",
+    "static/media/centurygothic_bold.woff": "/static/media/centurygothic_bold.560d4554710c9791e0ba.woff",
+    "static/media/logo.png": "/static/media/logo.649f3105d06cc1500d86.png",
+    "static/media/placeholder.jpg": "/static/media/placeholder.f4b4dfc2864f7ec9e6ff.jpg",
+    "index.html": "/index.html",
+    "main.01f80ce8.css.map": "/static/css/main.01f80ce8.css.map",
+    "main.c5729bbc.js.map": "/static/js/main.c5729bbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01f80ce8.css",
+    "static/js/main.c5729bbc.js"
+  ]
+}
